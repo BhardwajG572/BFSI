@@ -1,0 +1,20 @@
+# --- Backend Core ---
+fastapi
+uvicorn
+pydantic
+python-dotenv
+requests
+
+# --- AI & Orchestration ---
+langchain
+langgraph
+langchain-community
+langchain-groq
+
+# --- Frontend ---
+streamlit
+
+# --- Utilities & File Handling ---
+pypdf            # For reading the Salary Slip PDF
+httpx            # For making async API calls if needed
+python-multipart

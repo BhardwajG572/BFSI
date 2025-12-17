@@ -1,0 +1,92 @@
+[
+  {
+    "phone": "9999999901",
+    "name": "Rahul Sharma",
+    "city": "Mumbai",
+    "salary": 80000,
+    "credit_score": 750,
+    "pre_approved_limit": 500000,
+    "current_loans": 0
+  },
+  {
+    "phone": "9999999902",
+    "name": "Priya Verma",
+    "city": "Delhi",
+    "salary": 45000,
+    "credit_score": 720,
+    "pre_approved_limit": 200000,
+    "current_loans": 10000
+  },
+  {
+    "phone": "9999999903",
+    "name": "Amit Patel",
+    "city": "Ahmedabad",
+    "salary": 120000,
+    "credit_score": 810,
+    "pre_approved_limit": 1000000,
+    "current_loans": 50000
+  },
+  {
+    "phone": "9999999904",
+    "name": "Sneha Gupta",
+    "city": "Pune",
+    "salary": 30000,
+    "credit_score": 710,
+    "pre_approved_limit": 100000,
+    "current_loans": 0
+  },
+  {
+    "phone": "9999999905",
+    "name": "Vikram Singh",
+    "city": "Jaipur",
+    "salary": 55000,
+    "credit_score": 720,
+    "pre_approved_limit": 300000,
+    "current_loans": 0
+  },
+  {
+    "phone": "9999999906",
+    "name": "Anjali Das",
+    "city": "Kolkata",
+    "salary": 65000,
+    "credit_score": 740,
+    "pre_approved_limit": 400000,
+    "current_loans": 15000
+  },
+  {
+    "phone": "9999999907",
+    "name": "Rohit Kumar",
+    "city": "Bangalore",
+    "salary": 90000,
+    "credit_score": 780,
+    "pre_approved_limit": 600000,
+    "current_loans": 20000
+  },
+  {
+    "phone": "9999999908",
+    "name": "Kavita Reddy",
+    "city": "Hyderabad",
+    "salary": 150000,
+    "credit_score": 850,
+    "pre_approved_limit": 1200000,
+    "current_loans": 0
+  },
+  {
+    "phone": "9999999909",
+    "name": "Arjun Nair",
+    "city": "Chennai",
+    "salary": 40000,
+    "credit_score": 650,
+    "pre_approved_limit": 150000,
+    "current_loans": 5000
+  },
+  {
+    "phone": "9999999910",
+    "name": "Meera Joshi",
+    "city": "Indore",
+    "salary": 70000,
+    "credit_score": 760,
+    "pre_approved_limit": 450000,
+    "current_loans": 12000
+  }
+]
